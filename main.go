@@ -8,7 +8,7 @@ import (
 	"net/http"
 )
 
-const baseURL = "https://app.close.io/api"
+const baseURL = "https://api.close.com/api"
 const version = "v1"
 
 type Closeio struct {
